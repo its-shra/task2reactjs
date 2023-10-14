@@ -1,0 +1,27 @@
+.calculator-buttons {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(7, 11, 38);
+  flex: 3;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  flex-grow: 1;
+}
+
+button {
+  background: none;
+  border: none;
+  font-size: 25px;
+}
+
+.table1 td button {
+  color: rgb(158, 163, 181);
+}
+
+.table2 td button {
+  color: rgb(150, 163, 214);
+}

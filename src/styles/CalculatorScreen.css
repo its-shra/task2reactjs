@@ -1,0 +1,14 @@
+.calculator-screen {
+  flex: 2;
+  display: block;
+  background-color: rgb(23, 44, 102);
+  color: rgb(171, 189, 226);
+  padding-top: 3vh;
+  padding-right: 2vw;
+  text-align: right;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  font-size: 30px;
+  overflow: visible;
+  overflow-wrap: break-word;
+}

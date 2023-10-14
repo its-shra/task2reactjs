@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(to right, rgb(33, 152, 248), rgb(126, 249, 126));
+}
+
+.calculator {
+  display: flex;
+  flex-direction: column;
+}
